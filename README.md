@@ -21,7 +21,6 @@ A responsive NGO website built with **PHP**, **MySQL**, and **Razorpay** integra
 |-------------|-----------------|
 | Frontend    | HTML, CSS, JavaScript |
 | Backend     | PHP             |
-| Database    | MySQL           |
 | Payment     | Razorpay        |
 
 ---
