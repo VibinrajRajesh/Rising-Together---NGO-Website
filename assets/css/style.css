@@ -405,7 +405,7 @@ nav ul li a {
 
 /* Responsive design */
 
-@media screen and (min-width: 768px) {
+@media screen and (max-width: 768px) {
   body{
     overflow-x: hidden !important;
   }
